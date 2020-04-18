@@ -1,0 +1,240 @@
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\UniversityExaminationMVC.dll.config
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\UniversityExaminationMVC.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\UniversityExaminationMVC.pdb
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csc.exe
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csc.exe.config
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csc.rsp
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csi.exe
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csi.exe.config
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csi.rsp
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.AppContext.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Console.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.Compression.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.Pipes.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.AccessControl.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Claims.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Principal.Windows.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.ValueTuple.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Xml.XPath.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\vbc.exe
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\vbc.exe.config
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\vbc.rsp
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\VBCSCompiler.exe
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\Antlr3.Runtime.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\EntityFramework.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\EntityFramework.SqlServer.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\Newtonsoft.Json.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Helpers.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Mvc.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Optimization.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Razor.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.Deployment.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.Razor.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\WebGrease.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\EntityFramework.xml
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\EntityFramework.SqlServer.xml
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Helpers.xml
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Mvc.xml
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Optimization.xml
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Razor.xml
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.xml
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.Deployment.xml
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.Razor.xml
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\Newtonsoft.Json.xml
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\Antlr3.Runtime.pdb
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.csprojAssemblyReference.cache
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.csproj.CoreCompileInputs.cache
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.csproj.CopyComplete
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.dll
+E:\project database\OOSE\New\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.pdb
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\UniversityExaminationMVC.dll.config
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\UniversityExaminationMVC.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\UniversityExaminationMVC.pdb
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csc.exe
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csc.exe.config
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csc.rsp
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csi.exe
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csi.exe.config
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csi.rsp
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.AppContext.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Console.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\vbc.exe
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\vbc.exe.config
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\vbc.rsp
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\Antlr3.Runtime.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\EntityFramework.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\Newtonsoft.Json.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Helpers.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Mvc.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Optimization.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Razor.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\WebGrease.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\EntityFramework.xml
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Helpers.xml
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Mvc.xml
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Optimization.xml
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Razor.xml
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.xml
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\Newtonsoft.Json.xml
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\Antlr3.Runtime.pdb
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.csproj.CopyComplete
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.dll
+C:\Users\hp\OneDrive\Documents\GitHub\Exam-Portal\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.pdb
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\UniversityExaminationMVC.dll.config
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\UniversityExaminationMVC.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\UniversityExaminationMVC.pdb
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csc.exe
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csc.exe.config
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csc.rsp
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csi.exe
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csi.exe.config
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\csi.rsp
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.AppContext.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Console.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.Compression.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.IO.Pipes.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.AccessControl.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Claims.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.ValueTuple.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Xml.XPath.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\vbc.exe
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\vbc.exe.config
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\vbc.rsp
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\VBCSCompiler.exe
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\Antlr3.Runtime.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\EntityFramework.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\EntityFramework.SqlServer.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\Newtonsoft.Json.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Helpers.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Mvc.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Optimization.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Razor.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.Deployment.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.Razor.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\WebGrease.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\EntityFramework.xml
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\EntityFramework.SqlServer.xml
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Helpers.xml
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Mvc.xml
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Optimization.xml
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.Razor.xml
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.xml
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.Deployment.xml
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\System.Web.WebPages.Razor.xml
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\Newtonsoft.Json.xml
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\Antlr3.Runtime.pdb
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.csprojAssemblyReference.cache
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.csproj.CoreCompileInputs.cache
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.csproj.CopyComplete
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.dll
+E:\Oose_Project\OnlineUniversityExamination-master\UniversityExaminationMVC\UniversityExaminationMVC\obj\Debug\UniversityExaminationMVC.pdb

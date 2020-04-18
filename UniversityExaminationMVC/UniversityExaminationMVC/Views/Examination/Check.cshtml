@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Check";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card border-dark">
+    <div class="card-header text-dark"><h2>Check Paper</h2></div>
+    <div class="card-body text-dark">
+
+        <form method="post">
+            <div>
+                <div class="form-group">
+                    <label for="start">Start Roll no.</label>
+                    <input type="number" name="sroll" class="form-control" id="start" placeholder="Enter roll no">
+                </div>
+            </div>
+            <div>
+                <br />
+                <div class="form-group">
+                    <label for="end">To Roll No.</label>
+                    <input type="number" name="lroll" class="form-control" id="end" placeholder="Enter roll no">
+                </div>
+            </div><br />
+
+            <button type="submit" class="btn btn-dark">Check</button>
+        </form>
+        </div>
+</div>

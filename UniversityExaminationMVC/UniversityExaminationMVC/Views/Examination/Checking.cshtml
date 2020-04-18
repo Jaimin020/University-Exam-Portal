@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Checking";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card border-dark">
+<div class="card-header text-dark"><h2>Checking</h2></div>
+<div class="card-body text-dark">
+    <form method="post">
+        @for (int i = 0, j = 0; i < ViewBag.ans.Length / 2; i++, j += 2)
+        {
+            <text>Question:-</text>@ViewBag.ans[j]
+            <br />
+            <text>Answer:-</text>@ViewBag.ans[j + 1];
+            <br />
+            <input type="number" class="form-control" />
+            <br /><br />
+        }
+        Total Score:-<br />
+        <input type="number" name="scr" class="form-control" /><br /><br />
+        <input type="submit" value="Complete" class="btn btn-primary" />
+    </form>
+</div>
+</div>

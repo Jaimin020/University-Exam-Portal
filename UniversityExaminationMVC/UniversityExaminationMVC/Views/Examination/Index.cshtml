@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<style>
+    .my-small-btn {
+        width: 18rem;
+        height: 50px;
+    }
+
+    .my-clard-body {
+        padding: 0%;
+    }
+</style>
+<br /><br />
+<center>
+    <div id="p" style="font-size:32px;">
+    </div>
+</center>
+
+<center>
+    <div class="row">
+        <div class="col-sm-4">
+
+            <div class="btn-group" style="width:100%;">
+                <button type="button" class="btn btn-danger dropdown-toggle my-small-btn rounded-0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Semester
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+
+
+
+                </div>
+            </div>
+
+        </div>
+        <div class="col-sm-4">
+
+            <div class="btn-group" style="width:100%;">
+                <button type="button" class="btn btn-warning dropdown-toggle my-small-btn rounded-0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Subject
+                </button>
+                <div class="dropdown-menu">
+                    <dl>
+                        <dd>1</dd>
+                    </dl>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-sm-4">
+
+            <div class="btn-group" style="width:100%;">
+                <button type="button" class="btn btn-success dropdown-toggle my-small-btn rounded-0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Papers
+                </button>
+                <div class="dropdown-menu">
+                    <dl>
+                        <dd>1</dd>
+                    </dl>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</center>
+<script src="https://cdn.jsdelivr.net/combine/npm/kute.js@1.6.6,npm/kute.js@1.6.6/build.min.js,npm/kute.js@1.6.6/kute-attr.min.js,npm/kute.js@1.6.6/kute-css.min.js,npm/kute.js@1.6.6/kute-svg.min.js,npm/kute.js@1.6.6/kute-text.min.js">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/kute.js@1.6.6/kute-text.min.js"></script>
+<script>
+    var p = document.getElementById('p');
+    var t = KUTE.to(p, { text: 'Welcome To <b>Exam Portal<b>' }, { yoyo: true });
+    t.start();
+</script>
+

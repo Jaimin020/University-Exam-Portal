@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "StudentList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card border-dark">
+    <div class="card-header text-dark"><h2>List of Student</h2></div>
+    <div class="card-body text-dark">
+        <table class="text-dark">
+            @foreach(var i in ViewBag.data)
+            {
+                <tr>
+                    <td>
+                       Student ID:-@i.Student_Id
+                    </td>
+                    <td>
+                        &nbsp;&nbsp;&nbsp;<input type="button" value="Check" class="btn btn-success" onclick="window.location.href = '/Examination/Checking?id=@i.Id'">
+                    </td>
+                </tr>
+            }
+        </table>
+     </div>
+</div>
+<script>
+    function click(a) {
+        window.location.href = "/Examination/Checking?id="+a;
+    }
+</script>
